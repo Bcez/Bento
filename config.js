@@ -66,8 +66,8 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://notion.io',
+			icon: 'list-checks',
+			link: 'https://notion.so',
 		},
 		{
 			id: '4',
