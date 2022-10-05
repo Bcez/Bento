@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Bcez',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -61,13 +61,13 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com/',
 		},
 		{
 			id: '3',
 			name: 'Todoist',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://notion.io',
 		},
 		{
 			id: '4',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
@@ -104,8 +104,8 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'bot',
-			icon: 'bot',
+			name: 'Discord',
+			icon: 'message-circle',
 			link: 'https://discord.com/app',
 		},
 		{
@@ -116,9 +116,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			name: 'VS Code Online',
+			icon: 'code-2',
+			link: 'https://vscode.dev/',
 		},
 		{
 			id: '6',
@@ -210,19 +210,19 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					link: 'https://www.reddit.com/r/desktops/',
 				},
 				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
+					name: 'UnixPorn',
+					link: 'https://www.reddit.com/r/unixporn/',
 				},
 				{
 					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
+					link: 'https://www.reddit.com/r/gnome/',
 				},
 				{
 					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					link: 'https://github.com/bcez',
 				},
 			],
 		},
